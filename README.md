@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates Git and GitHub through collaborative development and conflict resolution.
+This project demonstrates Git and GitHub through structured branching, collaborative development, pull requests, and conflict resolution.
 It covers repository initialization, branching strategies, commits, pull requests, merging, tags, and project documentation.
 
 ## Objectives
