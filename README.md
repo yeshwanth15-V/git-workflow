@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates how Git and GitHub are used to manage a DevOps project through version control best practices.
+This project demonstrates Git and GitHub using a structured branching and pull request workflow.
 
 It covers repository initialization, branching strategies, commits, pull requests, merging, tags, and project documentation.
 
